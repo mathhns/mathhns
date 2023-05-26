@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
 <h1 align="left">Hello <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, I'm Math (Matheus Nunes)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
 
@@ -24,8 +24,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mathhns&show_icons=true&theme=blue-green" alt="mathhns's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=blue-green" alt="mathhns's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mathhns&show_icons=true&theme=chartreuse-dark" alt="mathhns's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=chartreuse-dark" alt="mathhns's most languages"/>
 </p>
 <br>
 
