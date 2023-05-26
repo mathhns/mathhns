@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
 
-- 🔥 Web Developer student at Trybe & Social Media Design
+- 🔥 Web Developer student & Social Media Design
 
 - 🔭 I’m currently looking for a job
 
