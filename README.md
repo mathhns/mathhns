@@ -33,10 +33,7 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/mathhns" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
+<p align="left" style="background:green">
 <a href="https://linkedin.com/in/mathhns" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -46,5 +43,8 @@
 <a>
 <a href="mailto:matheusnunessilva17@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+  <a href="https://codepen.io/mathhns" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
