@@ -11,6 +11,8 @@
 - 💬 Let's talk about programming
 
 - 👨‍💻 More at [Portfolio](https://mathhns.github.io/)
+
+- 🎮 I love playing games
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
