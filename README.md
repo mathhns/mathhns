@@ -28,14 +28,14 @@
 ## 📌 &nbsp;Contact
 
 <p align="left" style="background:green">
-<a href="https://linkedin.com/in/mathhns" target="_blank">
+<a href="https://linkedin.com/in/mathhns">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/mathhns" target="_blank">
+<a href="https://instagram.com/mathhns">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a>
-<a href="mailto:matheusnunessilva17@gmail.com" target="_blank">
+<a href="mailto:matheusnunessilva17@gmail.com">
  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
   <a href="https://codepen.io/mathhns" target="_blank">
