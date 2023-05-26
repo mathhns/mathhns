@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7CFC00&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Matheus!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
 
-<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
 
@@ -23,14 +23,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mathhns&show_icons=true&theme=chartreuse-dark" alt="mathhns's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=chartreuse-dark" alt="mathhns's most languages"/>
-</p>
-<br>
-
 ## Contact
 
 <p align="left" style="background:green">
@@ -48,3 +40,11 @@
   <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
+<br><br>
+  
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=mathhns&show_icons=true&theme=chartreuse-dark" alt="mathhns's stats"/>
+</p>
+<br>
