@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7CFC00&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Matheus!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
+
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
-<h1 align="left">Hello <img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, I'm Math (Matheus Nunes)</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
 
 - 🔥 Web Developer student at Trybe & Social Media Design
@@ -40,5 +42,9 @@
 </a>
 <a href="https://instagram.com/mathhns" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a>
+<a href="mailto:matheusnunessilva17@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
