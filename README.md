@@ -48,6 +48,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=chartreuse-dark" alt="mathhns's most languages"/>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=chartreuse-dark" alt="mathhns's most languages"/>
 </p>
 <br>
