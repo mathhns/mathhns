@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7CFC00&size=25&center=true&vCenter=true&width=1000&lines=%3C+Ol%C3%A1+%F0%9F%91%8B%2C+me+chamo+Matheus!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+%2F%3E)](https://git.io/typing-svg)
 
-<img align="right" height="510em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg" />
+<img align="right" height="510em" src="https://raw.githubusercontent.com/gist/mathhns/5a011697f26c4afd6e29ffb28573df60/raw/81401da9cde6bbbc9c7978cf5728cf83a0e77452/githubcard.svg"/>
 
-## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
+## 
 <br>
 
 - 🔥 Marketing & Social Media Design
@@ -56,3 +56,5 @@
 </p>
 
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
