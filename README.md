@@ -7,7 +7,7 @@
 
 - 🔥 Marketing & Social Media Design
 
-- 📚 Web Development Student
+- 📚 Student Web Developer
 
 - 🔭 I’m currently looking for a job
 
