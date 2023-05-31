@@ -16,7 +16,7 @@
 - 🎮 I love playing games
 
 - 👨‍💻 More at [Portfolio](https://mathhns.github.io/) [Beta]
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
