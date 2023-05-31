@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 <br>
 
 ## 📌 &nbsp;Contact
@@ -45,11 +46,13 @@
   <img align="center" src="https://img.shields.io/badge/-Codepen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
-<br><br>
+  
+<br>
   
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
   <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathhns&layout=compact&theme=chartreuse-dark" alt="mathhns's most languages"/>
 </p>
+
 <br>
