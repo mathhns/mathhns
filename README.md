@@ -5,7 +5,9 @@
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathhns&color=green" alt="Profile views"/></p>
 <br>
 
-- 🔥 Web Developer student & Social Media Design
+- 🔥 Marketing & Social Media Design
+
+- 📚 Web Development Student
 
 - 🔭 I’m currently looking for a job
 
